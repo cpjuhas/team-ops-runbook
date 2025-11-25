@@ -17,7 +17,7 @@
 - Control-M not hung
 
 ### Replication
-- Everytihn real-time or 15 mins
+- Everything real-time or 15 mins
 
 ### Backups
 -  Where do you start?
